@@ -1,4 +1,4 @@
 # Indian_met_zones
 Shapefile with Indian meteorological department zones
 
-(image_met_zones.png)
+![alt tag](image_met_zones.png)
